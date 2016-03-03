@@ -1,0 +1,17 @@
+{
+	"ai_probability":
+		{
+		"static_probability":0.0,
+		"move_probability":0.9,
+		"attack_probability":0.99,
+		"magic_probability":1.0
+		},
+	"attack_ai_probability":
+		{
+		"static_probability":0.1,
+		"move_probability":0.5,
+		"attack_probability":0.99,
+		"magic_probability":1.0
+		},
+	"current_enemy":"bandit"
+}

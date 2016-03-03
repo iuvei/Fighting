@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>path</key>
+		<string>LFR/other/map/map1.png</string>
+		<key>x</key>
+		<string>-200</string>
+		<key>y</key>
+		<string>0</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/map/map1.png</string>
+		<key>x</key>
+		<string>-100</string>
+		<key>y</key>
+		<string>0</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/map/map1.png</string>
+		<key>x</key>
+		<string>0</string>
+		<key>y</key>
+		<string>0</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/map/map1.png</string>
+		<key>x</key>
+		<string>100</string>
+		<key>y</key>
+		<string>0</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/map/map1.png</string>
+		<key>x</key>
+		<string>200</string>
+		<key>y</key>
+		<string>0</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/map/map1.png</string>
+		<key>x</key>
+		<string>300</string>
+		<key>y</key>
+		<string>0</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/map/map1.png</string>
+		<key>x</key>
+		<string>400</string>
+		<key>y</key>
+		<string>0</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/map/map1.png</string>
+		<key>x</key>
+		<string>500</string>
+		<key>y</key>
+		<string>0</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/component/tower1.png</string>
+		<key>x</key>
+		<string>150</string>
+		<key>y</key>
+		<string>300</string>
+		<key>scale</key>
+		<string>2</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/component/tower2.png</string>
+		<key>x</key>
+		<string>650</string>
+		<key>y</key>
+		<string>300</string>
+		<key>scale</key>
+		<string>2</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/tree/flower1.png</string>
+		<key>x</key>
+		<string>60</string>
+		<key>y</key>
+		<string>60</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/tree/flower2.png</string>
+		<key>x</key>
+		<string>90</string>
+		<key>y</key>
+		<string>150</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	<dict>
+		<key>path</key>
+		<string>LFR/other/tree/flower2.png</string>
+		<key>x</key>
+		<string>90</string>
+		<key>y</key>
+		<string>300</string>
+		<key>scale</key>
+		<string>1</string>
+	</dict>
+	
+	
+</array>
+</plist>

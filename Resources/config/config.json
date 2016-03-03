@@ -1,0 +1,35 @@
+{
+	"server_ip":"127.0.0.1",
+	"server_port":8899,
+	"hero_move_step":2,
+	"magic_distance":2000,
+	"magic_move_step":5,
+	"magic_damage":20,
+	"attack_damage":5,
+	"magic_damage_distance":100,
+	"attack_damage_distance":50,
+	"magic_cost":10,
+	"magic_regain_value":1,
+	"blood_regain_value":2,
+	"parry_probability":0.1,
+	"ai_probability":
+		{
+		"static_probability":0.0,
+		"move_probability":0.9,
+		"attack_probability":0.99,
+		"magic_probability":1.0
+		},
+	"attack_ai_probability":
+		{
+		"static_probability":0.1,
+		"move_probability":0.5,
+		"attack_probability":0.99,
+		"magic_probability":1.0
+		},
+	"use_ai":true,
+	"ai_check_distance":300,
+	"ai_attack_distance":100,
+	"hero_change":1,
+	"current_hero":"rudolf",
+	"current_enemy":"bandit"
+}
